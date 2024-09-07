@@ -10,6 +10,7 @@ body, html {
     height: 100%;
     width: 100%;
     overflow: hidden; /* Evita barras de desplazamiento */
+    background-color: #121212; /* Color de fondo oscuro */
 }
 
 .container {
